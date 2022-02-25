@@ -27,7 +27,7 @@ const Historytunadmin=()=> {const [employeeList, setEmployeeList] = useState([])
        <Navbar bg ="header" variant="dark" sticky="top" >
          <Navbar.Brand>
            <img src={logo} alt="logo" style={{width:'88px',height:'78px'}}/>{'  '}
-                ระบบขอทุนการศึกษา
+           &nbsp;ระบบขอทุนการศึกษา
        </Navbar.Brand>
        </Navbar>
        <br />
